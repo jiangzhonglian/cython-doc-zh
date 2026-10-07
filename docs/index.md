@@ -15,4 +15,4 @@
 
 ## 赞助我们
 
-<img src="http://data.dafeiyang.cn/img/about/donate.jpg" alt="微信&支付宝" />
+<img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
